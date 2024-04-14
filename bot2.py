@@ -24,7 +24,7 @@ async def heh(ctx, count_heh = 5):
 async def assalamualaikum(ctx):
     await ctx.send("عليكم السلام!")
 @bot.command()
-async def السلامعليكم(ctx):
+async def السلام_عليكم(ctx):
     await ctx.send("عليكم السلام!")
 @bot.command()
 async def turkiyedekacilvardir(ctx):
